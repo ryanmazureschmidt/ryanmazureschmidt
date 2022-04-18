@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ryan Mazure-Schmidt
+- 👀 I’m interested in Data Analysis, Software Developement, and Machine Learning.
+- 🌱 I’m currently learning Python and C++ again.
+- 💞️ I’m looking for a career that allow me to work with data.
+- 📫 You can reach out to me through email at ryan.mazure-schmidt@yahoo.com
